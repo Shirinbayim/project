@@ -8,7 +8,7 @@
 - `PyPortfolioOpt`: [PyPortfolioOpt Documentation](https://pyportfolioopt.readthedocs.io/en/latest/)
 
 ## Installation:
-- To install PyPortfolioOpt, you can use pip: `pip install PyPortfolioOpt`
+- To install PyPortfolioOpt: `pip install PyPortfolioOpt`
 
 ## Additional Tools:
 - `pandas_datareader`: Often used for fetching financial data, [Pandas Datareader Documentation](https://pandas-datareader.readthedocs.io/)
